@@ -1,0 +1,38 @@
+{
+    "short_name": "GC PWA",
+    "name": "GC PWA",
+    "icons": [
+      {
+        "src": "logo/logoSmall.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "logo/logoMedium.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "logo/logo.png",
+        "type": "image/png",
+        "sizes": "384x384"        
+      },
+      {
+        "src": "logo/logoBig.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "https://rwakeren.gc-webhosting.nl/memeApp/memeApp.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "https://rwakeren.gc-webhosting.nl/memeApp/memeApp.html",
+    "theme_color": "#3367D6",
+    "shortcuts": [
+      
+    ],
+    "description": "memes",
+    "screenshots": [
+     
+    ]
+  }
